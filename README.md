@@ -6,4 +6,14 @@ This project gave me a very interesting look into how Sine and Cosine can be use
 
 Also probability in this project gave me a much more comfortable understanding on how we can use probability in our conditionals and thinking of its implementation more as a abstract trait of our given cells.
 
+----------------------------------------------------------------------------
+
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/a09db4d7-1aff-4746-a57a-2d2b6dcb9bb4" alt="Cornstarch <3" width="55" height="49">
+
+
+**The Breakdown:**
+
+
+----------------------------------------------------------------------------
+
 ![bloomBurg-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/0766cf13-5890-4f79-a3a8-c9452a4856c8)
