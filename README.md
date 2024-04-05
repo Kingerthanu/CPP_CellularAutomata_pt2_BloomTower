@@ -13,6 +13,12 @@ Also probability in this project gave me a much more comfortable understanding o
 
 **The Breakdown:**
 
+  Our Program Works With OpenGL And A GLSL Window In Order To Enable Visualization Of Our Relationships.
+  
+  This Program Works With A 2D-Array In Which Represents a 2D Hexagonal Grid. Each Cell Of The Hexagonal Grid Is Represented With Its Own Class In Which Either Can Be Alive Or Dead. 
+  This State Is Determined By The State Of Its Neighbors And If Their Alive. At Each Game Tick, We Will Check Each Cell In The Grid Under A Modified Situation Of The Game Of Life. 
+
+  Currently Our Game Of Life Works With A Wave Of Death And Birth. In Our Demo Example Below We See Blooming Of Our Alive Cells Because We Have A Sine Function In Which Is Reading In Our Game Ticks And At Certain Intervals Is Enabling A Session Where The Cells Can Repopulate (While Also Following Certain Over/Under Population Rules Defined In The Ruleset).
 
 
 <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49">
