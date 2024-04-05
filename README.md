@@ -20,7 +20,7 @@ Also probability in this project gave me a much more comfortable understanding o
 
   Currently Our Game Of Life Works With A Wave Of Death And Birth. In Our Demo Example Below We See Blooming Of Our Alive Cells Because We Have A Sine Function In Which Is Reading In Our Game Ticks And At Certain Intervals Is Enabling A Session Where The Cells Can Repopulate (While Also Following Certain Over/Under Population Rules Defined In The Ruleset).
 
-  All Our Cells Have A Fade-In Visual Effect bc It Kindaaaaaa Looks Cool And Also Adds Less Visual Strain.
+  All Our Cells Have A Fade-In Visual Effect bc It Kindaaaaaa Looks Cool And Also Adds Less Visual Strain And Easier Displays Of Depth As Further Layers Will Fade In Later Than Closer Ones In Which Are Generated Before.
 
 
 <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49">
