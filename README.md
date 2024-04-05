@@ -14,6 +14,9 @@ Also probability in this project gave me a much more comfortable understanding o
 **The Breakdown:**
 
 
+
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/274bf657-6438-4475-b00b-c20deacb7f8c" alt="Cornstarch <3" width="55" height="49">
+
 ----------------------------------------------------------------------------
 
 ![bloomBurg-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BloomTower/assets/76754592/0766cf13-5890-4f79-a3a8-c9452a4856c8)
